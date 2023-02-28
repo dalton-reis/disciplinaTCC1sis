@@ -11,7 +11,6 @@ Dia da semana:   Terças (18:30\~22:00)
 |--- | ---- |  
 | Entrega do Termo de Compromisso |   14-03-2023  |  
 | Entrega do pré-projeto (curso de SIS) |   25-04-2023  |  
-  
 | Entrega do Projeto |   20-06-2023  |  
 |   |  |  
   
