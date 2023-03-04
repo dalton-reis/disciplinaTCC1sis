@@ -28,7 +28,7 @@ Dia da semana:   Terças (18:30\~22:00)
   
 - [aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
 - Termo - Formulação  
-- ![Termo - Atendimento Individual](Termo_atendimento.png)  
+![Termo - Atendimento Individual](Termo_atendimento.png)  
 
 ### Aula_02 07-03-2023  ( terça-feira )  
   
