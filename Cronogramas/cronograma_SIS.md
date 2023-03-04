@@ -28,7 +28,8 @@ Dia da semana:   Terças (18:30\~22:00)
   
 - [aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
 - Termo - Formulação  
-  
+- ![Termo - Atendimento Individual](Termo_atendimento.png)  
+
 ### Aula_02 07-03-2023  ( terça-feira )  
   
 <!-- \[AVISO] Termo atraso https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67011391 -->  
