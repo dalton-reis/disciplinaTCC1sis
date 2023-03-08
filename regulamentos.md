@@ -1,6 +1,6 @@
 # Regulamento
 
-\[SIS] [SIS_RegulamentoTCC](./Material/SIS_Resolucao_024_2022.pdf "SIS_RegulamentoTCC")  
+\[SIS] [SIS_RegulamentoTCC](./Material/SIS_RegulamentoTCC.pdf "SIS_RegulamentoTCC")  
 
 ## Resumo Regulamento do TCC do BCC
 
