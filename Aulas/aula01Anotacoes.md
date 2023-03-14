@@ -52,10 +52,13 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 O que deve ser feito para encaminhar o Termo de Compromisso:  
 
+<!--
 - fazer o cadastro no [Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio# "Currículo Lattes"); Faça o cadastro o quanto antes, não precisa esperar para ter os dados do termo (conversar com orientador etc.);  
+-->
+
 - seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
 <!-- - \[SIS] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-### \[SIS] [lista professores do DSC](http://dsc.inf.furb.br/professores "lista professores do DSC")  
+### \[SIS] [lista professores do DSC](https://www.furb.br/dsc/professores "lista professores do DSC")  
 
 \[SIS] [SIS_TermoCompromisso.docx](../Material/SIS_TermoCompromisso.docx "SIS_TermoCompromisso.docx")  
 
