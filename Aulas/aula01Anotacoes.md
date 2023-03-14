@@ -1,6 +1,6 @@
 <!-- \[INICIO] atualizar -->
-[AVA3 SIS]: https://ava3.furb.br/course/view.php?id=31567 "AVA3 BCC"  
-[Plano Ensino AVA SIS]: https://ava3.furb.br/course/view.php?id=31567&section=1 "Plano Ensino AVA BCC"  
+[AVA3 SIS]: https://ava3.furb.br/course/view.php?id=31567 "AVA3 SIS"  
+[Plano Ensino AVA SIS]: https://ava3.furb.br/course/view.php?id=31567&section=1 "Plano Ensino AVA SIS"  
 
 # Aula01: Visão Geral da Disciplina
 
