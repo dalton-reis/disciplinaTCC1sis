@@ -38,7 +38,6 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 ## Tipos de TCC: visão geral
 
 <!-- FIXME: Fazer um fluxograma (mapa de tempo, usar data atual para marcar no mapa o que já passou) no DrawIO do que ocorre nos dois projetos. Tentar usar variáveis para datas do cronograma. E colocar links nas caixas do fluxograma com o material -->
-- Visão geral de como ocorre o fluxograma para BCC  
 - Visão geral de como ocorre o fluxograma para SIS  
 
 ## Cronograma
